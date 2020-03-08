@@ -1,3 +1,5 @@
+This Project is created to get familiar with Angular front-end Framework, using Angular CLI,npm,Node js,Bootstrap,Jquery,....  
+
 # Devlogger
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
